@@ -29,7 +29,7 @@ Always learning, building, and exploring new technologies! 🤓
 
 ### 💻 Some notable projects:
 * [Calculator Desktop app - Java, JavaFX, Scene Builder](https://github.com/markokroselj/calculator#kalkulator) 
-* [Restaurant menu web app - Frontend: Astro.js, Tailwind CSS Backend: Java and Python](https://github.com/markokroselj/menu-app)
+* [Restaurant menu web app - Frontend: Astro.js, Tailwind CSS Backend: Java and Python](https://github.com/markokroselj/menu-app#menu-app)
 * [Web application deployed and orchestrated using Kubernetes - Frontend: React Backend: Node.js and MySQL](https://github.com/markokroselj/devops-hw3#deployment-of-web-application-stack-using-kubernetes)
 
 ### 🛠️ Tech Stack
